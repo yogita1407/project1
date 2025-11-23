@@ -1,4 +1,4 @@
 # project1
 This is my first git repository.
 <br>
-Author- L Yogita
+Author- L Yogita (IT)
